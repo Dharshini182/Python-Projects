@@ -1,0 +1,19 @@
+Text = " DHARSHINI RAJAGOPAL "
+print(Text[0:10])
+print(Text[:])
+print(Text[::])
+print(Text[0::2])
+print(Text[::-1])
+print(Text.title())
+print(Text.capitalize())
+print(Text.upper())
+print(Text.lower())
+print(Text.find("SHINI"))
+print(Text.replace("RAJAGOPAL","R"))
+print(len(Text))
+Word = "MALLIKA"
+print(Text + Word)
+print("%5d" % 45)
+print("%5.2f" % 45.123456)
+
+
